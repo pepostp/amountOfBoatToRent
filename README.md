@@ -1,0 +1,2 @@
+# amountOfBoatToRent
+For test
